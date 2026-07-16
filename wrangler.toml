@@ -14,4 +14,4 @@ BLOG_DESCRIPTION = "A minimal blog on Cloudflare Workers"
 [[d1_databases]]
 binding = "DB"
 database_name = "fishblog-db"
-database_id = "placeholder-replace-after-creation"
+database_id = "d67d999e-4c70-4e32-ab72-ca4edfd39da0"
